@@ -10,13 +10,13 @@ If you want access to this Repo, just tell me and you can pull requests and stuf
 Features:
 Speed Cheat Enable + Slider Speed Cheat
 
-Infinity Jump
-Infinity Heal
-Infinity Oxygen
-Infinity Stamina
-Infinity GodMode
+Infinity Jump,
+Infinity Heal,
+Infinity Oxygen,
+Infinity Stamina,
+Infinity GodMode,
 
-Infinite Battery Enable
+Infinite Battery Enable,
 -> Flashlight Enable
 -> Defib Enable
 -> Shockstick Enable
@@ -25,7 +25,7 @@ Infinite Battery Enable
 
 Enable Custom FOV + Slider Custom FOV
 
-Add Money
+Add Money,
 Remove Money
 
 Ignore Webs
